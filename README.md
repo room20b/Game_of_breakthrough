@@ -6,7 +6,7 @@ Python 3.6.1 :: Anaconda 4.4.0
 $ conda install virtualenv                                                                                                               
 
 
-#### Create a virtualenv (right outside of "kanye_album"):
+#### Create a virtualenv:
 $ virtualenv env_name
 
 - some_dir/
