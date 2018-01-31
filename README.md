@@ -18,7 +18,7 @@ $ virtualenv env_name
 $ source activate env_name
 
 
-#### Now cd into kanye_album and run (this installs all the packages into your virtualenv):
+#### Now cd into it and run:
 $ pip install -r requirements.txt
 
 
